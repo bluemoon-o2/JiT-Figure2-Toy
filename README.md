@@ -24,17 +24,3 @@ The goal is to show how **x-prediction**, **ε-prediction**, and **v-prediction*
 ## Output
 
 #![Figure 2 Reproduction](output.png)
-
----
-
-## Citation
-```
-
-@article{li2025backtobasics,
-title={Back to Basics: Let Denoising Generative Models Denoise},
-author={Li, Zhanpeng and He, Kaiming},
-year={2025},
-journal={arXiv:2511.13720}
-}
-
-```
